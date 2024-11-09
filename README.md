@@ -22,5 +22,7 @@ View the full analysis and visual presentation on Google Slides for a deeper div
    git clone https://github.com/hannahphan12/loan_analysis.git
    cd loan_analysis
    ```
-2. **Dependencies:
+2. **Dependencies**:
    Panda, Matplotplib
+3. **Data**:
+   Link to [data](https://tinyurl.com/DA1Project)
