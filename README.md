@@ -23,6 +23,6 @@ View the full analysis and visual presentation on Google Slides for a deeper div
    cd loan-analysis
    ```
 2. **Dependencies**:
-   Panda, Matplotplib
+   - Panda, Matplotplib
 3. **Data**:
-   Link to data: [Dropbox](https://tinyurl.com/DA1Project)
+   - Link to data: [Dropbox](https://tinyurl.com/DA1Project)
