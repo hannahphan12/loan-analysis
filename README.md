@@ -14,13 +14,13 @@ A data-driven analysis of loan performance based on loan volume over time, borro
 
 ### Presentation
 View the full analysis and visual presentation on Google Slides for a deeper dive into the data and methods:
-[View Google Slides Presentation](https://docs.google.com/presentation/d/1A79Ahl2kiFBxMGGBbZznHu0jAtJpyKMnK-0WcR3C8K4/edit#slide=id.gd251bb473_0_681)
+[View Google Slides Presentation](https://docs.google.com/presentation/d/1A79Ahl2kiFBxMGGBbZznHu0jAtJpyKMnK-0WcR3C8K4/edit#slide=id.gcb9a0b074_1_0)
 
 ### How to Reproduce This Analysis
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hannahphan12/loan_analysis.git
-   cd loan_analysis
+   git clone https://github.com/hannahphan12/loan-analysis.git
+   cd loan-analysis
    ```
 2. **Dependencies**:
    Panda, Matplotplib
