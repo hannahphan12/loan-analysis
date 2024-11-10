@@ -14,7 +14,7 @@ A data-driven analysis of loan performance based on loan volume over time, borro
 
 ### Presentation
 View the full analysis and visual presentation on Google Slides for a deeper dive into the data and methods:
-[🔗 View Google Slides Presentation](https://docs.google.com/presentation/d/your-presentation-id)
+[View Google Slides Presentation](https://docs.google.com/presentation/d/1A79Ahl2kiFBxMGGBbZznHu0jAtJpyKMnK-0WcR3C8K4/edit#slide=id.gd251bb473_0_681)
 
 ### How to Reproduce This Analysis
 1. **Clone the Repository**:
@@ -25,4 +25,4 @@ View the full analysis and visual presentation on Google Slides for a deeper div
 2. **Dependencies**:
    Panda, Matplotplib
 3. **Data**:
-   Link to [data](https://tinyurl.com/DA1Project)
+   Link to data: [Dropbox](https://tinyurl.com/DA1Project)
