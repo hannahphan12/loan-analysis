@@ -4,10 +4,10 @@ A data-driven analysis of loan performance based on loan volume over time, borro
 ### Analysis Description
 
 1. Loan Volume
-   - Examined how loan issuance trends change over time
+   - Examined how loan volume trends change over time
    - Visualized loan volume by month to identify trends
 2. Loan Grades Effectiveness
-   - Demonstrated that the loan grading system (A-G) is indicative of performance by analyzing default rates and interest rates.
+   - Demonstrated that the loan grading system (A-G) is indicative of performance by analyzing default rates
 3. Borrower Characteristics
    - Identified key factors affecting loan performance
    - Analyzed how these characteristics correlate with loan defaults and performance
